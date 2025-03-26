@@ -42,7 +42,7 @@ Developing generative AI models for creating personalized, dynamic content acros
 - 💻 [GitHub](https://github.com/ROOPHS)
 - 📧 Email: jobforroopesh@gmail.com
 - 📱 Mobile: +91 9164682339/8310763710
-- 💼 [Portifolio Website](https://github.com/ROOPHS.github.io)
+- 💼 [Portifolio Website](https://ROOPHS.github.io)
 
 
 ## 🛠️ Tools I Use
