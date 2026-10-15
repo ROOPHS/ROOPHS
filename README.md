@@ -2,13 +2,14 @@
 
 ## 🚀 AI Engineer | Data Scientist | Python Developer
 
-Welcome to my GitHub profile! I’m ROOPESH, an AI Engineer with a strong passion for problem-solving, machine learning, and deep learning. With a background in **Data Science**, I love working on cutting-edge 
+Welcome to my GitHub profile! I’m ROOPESH, an AI Engineer with a strong passion for problem-solving, machine learning, deep learning, Natural language Processing, Generative AI and Agentic AI. With a background in **Data Science**, I love working on cutting-edge 
 technology and building intelligent systems.
 
 I specialize in:
 - Machine Learning & Deep Learning
 - Natural Language Processing (NLP)
 - Generative AI & Large Language Models (LLMs)
+- Agentic AI
 - Model Fine-Tuning & Deployment (MLOps)
 - Data Engineering and Processing
 
@@ -17,11 +18,11 @@ Feel free to explore my repositories! I am always open to collaboration, learnin
 ## 🔧 Skills & Technologies
 
 - **Languages**: Python, SQL, JavaScript, Angular, HTML, CSS
-- **AI Tools & Frameworks**: TensorFlow, PyTorch, Hugging Face, OpenAI, Gemini
+- **AI Tools & Frameworks**: n8n, TensorFlow, PyTorch, Hugging Face, OpenAI, Gemini
 - **Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib, Plotly
 - **Database & Storage**: ChromaDB, PostgreSQL, MySQL
 - **Cloud Services**: AWS, Google Cloud Platform
-- **Version Control**: Git, GitHub
+- **Version Control**: Azure Devops, Git, GitHub
 
 ## 🌟 Current Projects
 
