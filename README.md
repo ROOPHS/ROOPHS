@@ -26,7 +26,7 @@ Feel free to explore my repositories! I am always open to collaboration, learnin
 
 ## 🌟 Current Projects
 
-Here are a few projects I am currently working on:
+Here are a few projects I have worked on:
 
 ### 1. **Laptop Recommendation System**  
 Built a recommendation system using RAG (retrieval-augmented generation) for suggesting laptops based on user preferences.
